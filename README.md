@@ -1,1 +1,1 @@
-# UltraSR_Arbitrary-Scale_Super-Resolution
+# UltraSR for Arbitrary-Scale Super-Resolution

@@ -108,25 +108,25 @@ Result comparison on DIV2K validation dataset.
   </tr>
   <tr>
     <td align="right">LIIF-RDN</td>
-    <td align="center">34.99<</td>
-    <td align="center">31.26<</td>
-    <td align="center">29.27<</td>
-    <td align="center">26.99<</td>
-    <td align="center">23.89<</td>
-    <td align="center">22.34<</td>
-    <td align="center">21.31<</td>
-    <td align="center">20.59<</td>
+    <td align="center">34.99</td>
+    <td align="center">31.26</td>
+    <td align="center">29.27</td>
+    <td align="center">26.99</td>
+    <td align="center">23.89</td>
+    <td align="center">22.34</td>
+    <td align="center">21.31</td>
+    <td align="center">20.59</td>
   </tr>
   <tr>
     <td align="right"><b>UltraSR-RDN</b></td>
-    <td align="center"><b>35.00</b><</td>
-    <td align="center"><b>31.30</b><</td>
-    <td align="center"><b>29.32</b><</td>
-    <td align="center"><b>27.03</b><</td>
-    <td align="center"><b>23.93</b><</td>
-    <td align="center"><b>22.36</b><</td>
-    <td align="center"><b>21.33</b><</td>
-    <td align="center"><b>20.61</b><</td>
+    <td align="center"><b>35.00</b></td>
+    <td align="center"><b>31.30</b></td>
+    <td align="center"><b>29.32</b></td>
+    <td align="center"><b>27.03</b></td>
+    <td align="center"><b>23.93</b></td>
+    <td align="center"><b>22.36</b></td>
+    <td align="center"><b>21.33</b></td>
+    <td align="center"><b>20.61</b></td>
   </tr>
 </table>
 

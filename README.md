@@ -21,7 +21,7 @@ By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](https://vita-gro
 </p>
 
 <p align="center">
-  <img src="figure/image_compare.jpg" width="80%">
+  <img src="figure/image_compare.jpg" width="75%">
 </p>
 
 ## Result

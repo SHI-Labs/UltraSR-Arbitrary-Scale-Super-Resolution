@@ -20,6 +20,10 @@ By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](https://vita-gro
   <img src="figure/liif_and_ours.jpg" width="95%">
 </p>
 
+<p align="center">
+  <img src="figure/image_compare.jpg" width="80%">
+</p>
+
 ## Result
 
 Result comparison on DIV2K validation dataset.

@@ -17,11 +17,11 @@ By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](https://vita-gro
 ## Visualization
 
 <p align="center">
-  <img src="figure/liif_and_ours.jpg" width="95%">
+  <img src="figure/liif_and_ours.jpg" width="97%">
 </p>
 
 <p align="center">
-  <img src="figure/image_compare.jpg" width="75%">
+  <img src="figure/image_compare.jpg" width="93%">
 </p>
 
 ## Result
@@ -152,5 +152,5 @@ Result comparison on other 5 benchmark datasets.
 ```
 
 ## Acknowledgements
-Our work benefited greatly from [LIIF, CVPR 2021](https://github.com/yinboc/liif) etc. We thank the authors for sharing their codes.
+Our work benefited greatly from [LIIF](https://github.com/yinboc/liif) (CVPR 2021) etc. We thank the authors for sharing their codes.
 

@@ -28,9 +28,7 @@ By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](https://vita-gro
 
 Result comparison on DIV2K validation dataset.
 
-<center>
 <table>
-  <thead>
   <tr>
     <td align="right" style="width:130px">Method</td>
     <td align="center">x2</td>
@@ -42,101 +40,120 @@ Result comparison on DIV2K validation dataset.
     <td align="center">x24</td>
     <td align="center">x30</td>
   </tr>
-  </thead>
-  <tbody>
   <tr>
     <td align="right">Bicubic</td>
-    <td>31.01</td>
-    <td>28.22</td>
-    <td>26.66</td>
-    <td>24.82</td>
-    <td>22.27</td>
-    <td>21.00</td>
-    <td>20.19</td>
-    <td>19.59</td>
+    <td align="center">31.01</td>
+    <td align="center">28.22</td>
+    <td align="center">26.66</td>
+    <td align="center">24.82</td>
+    <td align="center">22.27</td>
+    <td align="center">21.00</td>
+    <td align="center">20.19</td>
+    <td align="center">19.59</td>
   </tr>
   <tr>
     <td align="right">EDSR</td>
-    <td>34.55</td>
-    <td>30.90</td>
-    <td>28.92</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td align="center">34.55</td>
+    <td align="center">30.90</td>
+    <td align="center">28.92</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td align="right">MetaSR-EDSR</td>
-    <td>34.64</td>
-    <td>30.93</td>
-    <td>28.92</td>
-    <td>26.61</td>
-    <td>23.55</td>
-    <td>22.03</td>
-    <td>21.06</td>
-    <td>20.37</td>
+    <td align="center">34.64</td>
+    <td align="center">30.93</td>
+    <td align="center">28.92</td>
+    <td align="center">26.61</td>
+    <td align="center">23.55</td>
+    <td align="center">22.03</td>
+    <td align="center">21.06</td>
+    <td align="center">20.37</td>
   </tr>
   <tr>
     <td align="right">LIIF-EDSR</td>
-    <td>34.67</td>
-    <td>30.96</td>
-    <td>29.00</td>
-    <td>26.75</td>
-    <td>23.71</td>
-    <td>22.17</td>
-    <td>21.18</td>
-    <td>20.48</td>
+    <td align="center">34.67</td>
+    <td align="center">30.96</td>
+    <td align="center">29.00</td>
+    <td align="center">26.75</td>
+    <td align="center">23.71</td>
+    <td align="center">22.17</td>
+    <td align="center">21.18</td>
+    <td align="center">20.48</td>
   </tr>
   <tr>
     <td align="right"><b>UltraSR-EDSR</b></td>
-    <td><b>34.69</b></td>
-    <td><b>31.02</b></td>
-    <td><b>29.05</b></td>
-    <td><b>26.81</b></td>
-    <td><b>23.75</b></td>
-    <td><b>22.21</b></td>
-    <td><b>21.21</b></td>
-    <td><b>20.51</b></td>
+    <td align="center"><b>34.69</b></td>
+    <td align="center"><b>31.02</b></td>
+    <td align="center"><b>29.05</b></td>
+    <td align="center"><b>26.81</b></td>
+    <td align="center"><b>23.75</b></td>
+    <td align="center"><b>22.21</b></td>
+    <td align="center"><b>21.21</b></td>
+    <td align="center"><b>20.51</b></td>
   </tr>
   <tr>
     <td align="right" >MetaSR-RDN</td>
-    <td><b>35.00</b></td>
-    <td>31.27</td>
-    <td>29.25</td>
-    <td>26.88</td>
-    <td>23.73</td>
-    <td>22.18</td>
-    <td>21.17</td>
-    <td>20.47</td>
+    <td align="center"><b>35.00</b></td>
+    <td align="center">31.27</td>
+    <td align="center">29.25</td>
+    <td align="center">26.88</td>
+    <td align="center">23.73</td>
+    <td align="center">22.18</td>
+    <td align="center">21.17</td>
+    <td align="center">20.47</td>
   </tr>
   <tr>
     <td align="right">LIIF-RDN</td>
-    <td>34.99</td>
-    <td>31.26</td>
-    <td>29.27</td>
-    <td>26.99</td>
-    <td>23.89</td>
-    <td>22.34</td>
-    <td>21.31</td>
-    <td>20.59</td>
+    <td align="center">34.99<</td>
+    <td align="center">31.26<</td>
+    <td align="center">29.27<</td>
+    <td align="center">26.99<</td>
+    <td align="center">23.89<</td>
+    <td align="center">22.34<</td>
+    <td align="center">21.31<</td>
+    <td align="center">20.59<</td>
   </tr>
   <tr>
     <td align="right"><b>UltraSR-RDN</b></td>
-    <td><b>35.00</b></td>
-    <td><b>31.30</b></td>
-    <td><b>29.32</b></td>
-    <td><b>27.03</b></td>
-    <td><b>23.93</b></td>
-    <td><b>22.36</b></td>
-    <td><b>21.33</b></td>
-    <td><b>20.61</b></td>
+    <td align="center"><b>35.00</b><</td>
+    <td align="center"><b>31.30</b><</td>
+    <td align="center"><b>29.32</b><</td>
+    <td align="center"><b>27.03</b><</td>
+    <td align="center"><b>23.93</b><</td>
+    <td align="center"><b>22.36</b><</td>
+    <td align="center"><b>21.33</b><</td>
+    <td align="center"><b>20.61</b><</td>
   </tr>
-  </tbody>
 </table>
-</center>
 
 Result comparison on other 5 benchmark datasets.
+
+<table>
+  <tr>
+    <td align="center" style="width:130px">Dataset</td>
+    <td align="center" style="width:130px">Method</td>
+    <td align="center">x2</td>
+    <td align="center">x3</td>
+    <td align="center">x4</td>
+    <td align="center">x6</td>
+    <td align="center">x8</td>
+    <td align="center">x12</td>
+  </tr>
+  <tr>
+    <td align="center" rowspan="4">Set5</td>
+    <td align="center">RDN</td>
+    <td align="center"><b>38.24</b></td>
+    <td align="center"><b>34.71</b></td>
+    <td align="center">32.47</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+</table>
 
 ## License
 

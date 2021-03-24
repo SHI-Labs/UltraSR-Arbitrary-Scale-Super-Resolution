@@ -2,7 +2,7 @@
 
 **UltraSR: Spatial Encoding is a Missing Key for Implicit Image Function-based Arbitrary-Scale Super-Resolution**, 
 
-[Preprint](https://arxiv.org/abs/2103.12716), [Video results](https://youtu.be/9ylD8TlSlyM)
+[ArXiv Preprint](https://arxiv.org/abs/2103.12716), [Video results](https://youtu.be/9ylD8TlSlyM)
 
 by [Xingqian Xu](https://scholar.google.com/citations?user=s1X82zMAAAAJ&hl=en), [Zhangyang Wang](https://vita-group.github.io/index.html) and [Humphrey Shi](https://www.humphreyshi.com/), 
 

@@ -22,4 +22,4 @@ Code will be released.
 ```
 
 ## Acknowledgements
-Our work benefited greatly from [LIIF](https://github.com/yinboc/liif), [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) etc. We thank the authors for sharing their codes.
+Our work benefited greatly from [LIIF, CVPR 2021](https://github.com/yinboc/liif) etc. We thank the authors for sharing their codes.

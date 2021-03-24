@@ -153,6 +153,33 @@ Result comparison on other 5 benchmark datasets.
     <td align="center">-</td>
     <td align="center">-</td>
   </tr>
+  <tr>
+    <td align="center">MetaSR-RDN</td>
+    <td align="center">38.22</td>
+    <td align="center">34.63</td>
+    <td align="center">32.38</td>
+    <td align="center">29.04</td>
+    <td align="center">29.96</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">LIIF-RDN</td>
+    <td align="center">38.17</td>
+    <td align="center">34.68</td>
+    <td align="center"><b>32.50</b></td>
+    <td align="center">29.15</td>
+    <td align="center">27.14</td>
+    <td align="center"><b>24.86</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>UltraSR-RDN</b></td>
+    <td align="center">38.21</td>
+    <td align="center">34.67</td>
+    <td align="center">32.49</td>
+    <td align="center"><b>29.33</b></td>
+    <td align="center"><b>27.24</b></td>
+    <td align="center">24.81</td>
+  </tr>
 </table>
 
 ## License

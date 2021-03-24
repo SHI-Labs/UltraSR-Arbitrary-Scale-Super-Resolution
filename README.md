@@ -4,6 +4,8 @@ Paper Link: [ArXiv Preprint](https://arxiv.org/abs/2103.12716)
 
 By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](http://web.eecs.utk.edu/~zzhang61/), and [Humphrey Shi](https://www.humphreyshi.com), 
 
+[![DEMO](https://img.youtube.com/vi/9ylD8TlSlyM/0.jpg)](https://www.youtube.com/watch?v=9ylD8TlSlyM)
+
 ## Introduction
 
 <p align="center">
@@ -17,8 +19,6 @@ By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](http://web.eecs.
 <p align="center">
   <img src="figure/liif_and_ours.jpg" width="95%">
 </p>
-
-For more visualization, please go to [this link](https://www.youtube.com/watch?v=9ylD8TlSlyM)
 
 ## Result
 
@@ -148,5 +148,5 @@ Result comparison on other 5 benchmark datasets.
 ```
 
 ## Acknowledgements
-Our work benefited greatly from [LIIF](https://github.com/yinboc/liif), [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) etc. We thank the authors for sharing their codes.
+Our work benefited greatly from [LIIF, CVPR 2021](https://github.com/yinboc/liif) etc. We thank the authors for sharing their codes.
 

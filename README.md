@@ -2,7 +2,7 @@
 
 Paper Link: [ArXiv Preprint](https://arxiv.org/abs/2103.12716)
 
-By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](http://web.eecs.utk.edu/~zzhang61/), and [Humphrey Shi](https://www.humphreyshi.com), 
+By [Xingqian Xu](https://ifp-uiuc.github.io/), [Zhangyang Wang](), and [Humphrey Shi](https://www.humphreyshi.com), 
 
 [![DEMO](https://img.youtube.com/vi/9ylD8TlSlyM/0.jpg)](https://www.youtube.com/watch?v=9ylD8TlSlyM)
 

@@ -180,6 +180,159 @@ Result comparison on other 5 benchmark datasets.
     <td align="center"><b>27.24</b></td>
     <td align="center">24.81</td>
   </tr>
+
+  <tr>
+    <td align="center" rowspan="4">Set14</td>
+    <td align="center">RDN</td>
+    <td align="center"><b>34.01</b></td>
+    <td align="center">30.57</td>
+    <td align="center">28.81</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">MetaSR-RDN</td>
+    <td align="center">33.98</td>
+    <td align="center">30.54</td>
+    <td align="center">28.78</td>
+    <td align="center">26.51</td>
+    <td align="center">24.97</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">LIIF-RDN</td>
+    <td align="center">33.97</td>
+    <td align="center">30.53</td>
+    <td align="center">28.80</td>
+    <td align="center">26.64</td>
+    <td align="center">25.15</td>
+    <td align="center">23.24</td>
+  </tr>
+  <tr>
+    <td align="center"><b>UltraSR-RDN</b></td>
+    <td align="center">33.97</td>
+    <td align="center"><b>30.59</b></td>
+    <td align="center"><b>28.86</b></td>
+    <td align="center"><b>26.69</b></td>
+    <td align="center"><b>25.25</b></td>
+    <td align="center"><b>23.32</b></td>
+  </tr>
+
+  <tr>
+    <td align="center" rowspan="4">B100</td>
+    <td align="center">RDN</td>
+    <td align="center">32.34</td>
+    <td align="center">29.26</td>
+    <td align="center">27.72</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">MetaSR-RDN</td>
+    <td align="center">32.33</td>
+    <td align="center">29.26</td>
+    <td align="center">27.71</td>
+    <td align="center">25.90</td>
+    <td align="center">24.83</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">LIIF-RDN</td>
+    <td align="center">32.32</td>
+    <td align="center">29.26</td>
+    <td align="center">27.74</td>
+    <td align="center">25.98</td>
+    <td align="center">24.91</td>
+    <td align="center">23.57</td>
+  </tr>
+  <tr>
+    <td align="center"><b>UltraSR-RDN</b></td>
+    <td align="center"><b>32.35</b></td>
+    <td align="center"><b>29.29</b></td>
+    <td align="center"><b>27.77</b></td>
+    <td align="center"><b>26.01</b></td>
+    <td align="center"><b>24.96</b></td>
+    <td align="center"><b>23.59</b></td>
+  </tr>
+
+  <tr>
+    <td align="center" rowspan="4">Urban100</td>
+    <td align="center">RDN</td>
+    <td align="center">32.89</td>
+    <td align="center">28.80</td>
+    <td align="center">26.61</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">MetaSR-RDN</td>
+    <td align="center">32.92</td>
+    <td align="center">28.82</td>
+    <td align="center">26.55</td>
+    <td align="center">23.99</td>
+    <td align="center">22.59</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">LIIF-RDN</td>
+    <td align="center">32.87</td>
+    <td align="center">28.82</td>
+    <td align="center">26.68</td>
+    <td align="center">24.20</td>
+    <td align="center">22.79</td>
+    <td align="center">21.15</td>
+  </tr>
+  <tr>
+    <td align="center"><b>UltraSR-RDN</b></td>
+    <td align="center"><b>32.97</b></td>
+    <td align="center"><b>28.92</b></td>
+    <td align="center"><b>26.78</b></td>
+    <td align="center"><b>24.30</b></td>
+    <td align="center"><b>22.87</b></td>
+    <td align="center"><b>21.20</b></td>
+  </tr>
+
+  <tr>
+    <td align="center" rowspan="4">Manga109</td>
+    <td align="center">RDN</td>
+    <td align="center">39.18</td>
+    <td align="center">34.13</td>
+    <td align="center">31.00</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">MetaSR-RDN</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">LIIF-RDN</td>
+    <td align="center"><b>39.26</b></td>
+    <td align="center">34.21</td>
+    <td align="center">31.20</td>
+    <td align="center">27.33</td>
+    <td align="center">25.04</td>
+    <td align="center">22.36</td>
+  </tr>
+  <tr>
+    <td align="center"><b>UltraSR-RDN</b></td>
+    <td align="center">39.09</td>
+    <td align="center"><b>34.28</b></td>
+    <td align="center"><b>31.32</b></td>
+    <td align="center"><b>27.42</b></td>
+    <td align="center"><b>25.12</b></td>
+    <td align="center"><b>22.42</b></td>
+  </tr>
+
 </table>
 
 ## License
